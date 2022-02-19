@@ -1,0 +1,11 @@
+Aromatic={F,Y,W,H}
+Negative={D,E}
+Positive={K,H,R}
+Polar={N,Q,S,D,E,C,T,K,R,H,Y,W}
+Hydrophobic={A,G,C,T,I,V,L,K,H,F,Y,W,M}
+Aliphatic={I,V,L}
+Tiny={A,S,G,C},
+Charged={K,H,R,D,E}
+Small={P,N,D,T,C,A,G,S,V}
+Proline={A,S,G,C}
+del={-}
